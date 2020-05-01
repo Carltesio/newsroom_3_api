@@ -12,6 +12,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/newsroom_3_api/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/newsroom_3_api?branch=development)
 
+[![Build Status](https://semaphoreci.com/api/v1/emtalen/newsroom_3_api/branches/development/badge.svg)](https://semaphoreci.com/emtalen/newsroom_3_api)
+
 ## The code   
 This is the API to our project Newspaper Mars Times. Here we are authenticating users, storing articles, saving all our data and also making calls to external APIs such as Stripe. This is built with Ruby on Rails. We are using Amazon Web Services to store our images.
 The master repository for the visitors interface, mobile app and admin interface can be found here:
